@@ -1,10 +1,36 @@
-- 👋 Hi, I’m @Dexmi25
-- 👀 I’m interested in Computer and all aspect hardware/software
-- 🌱 I’m currently learning basic web design, HTML/CSS/JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hey there, I'm Dennis 👋
 
-<!---
-Dexmi25/Dexmi25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Philippines-based enthusiast with a passion for exploring various hobbies and learning new skills. Here's a bit about me:
+
+## 🎮 Hobbies and Interests
+
+In my free time, I'm all about embracing creativity and enjoying life's diverse experiences:
+
+- Solving problems and puzzles
+- Immersing myself in video games
+- Building and customizing computers
+- Crafting unique mechanical keyboards
+- Assembling intricate Gunpla models
+- Diving into captivating Manga and Anime
+- Cruising on my motorcycle for an adrenaline rush
+
+I'm a dedicated Manga and Anime enthusiast and can talk about them for hours on end!
+
+## 🌐 Web Development Journey
+
+Currently, I'm on a learning journey in the world of basic web development. I'm excited to upskill and potentially explore new career avenues.
+
+- The Odin Project
+  - HTML
+  - CSS
+  - JavaScript
+
+## 📬 Let's Connect
+
+- GitHub: https://github.com/Dexmi25
+- LinkedIn: https://www.linkedin.com/in/dexmi/
+- Email: github.dexmi@gmail.com
+
+Feel free to reach out if you share similar interests or if you'd like to connect!
+
+
